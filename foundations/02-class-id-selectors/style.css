@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd{
+    background-color:pink;
+    color: black;
+}
+.one{
+    font-size: 16px;
+}
+.two{
+    color: blue;
+    font-size: 25px;
+    font-weight: 800;
+}
+.three{
+    font-size: 20px;
+}
+#even-4{
+    font-weight: 900;
+    background-color: rgb(125, 197, 125);
+}
+.five{
+    font-size: 15px;
+}
